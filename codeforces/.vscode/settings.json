@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "*html": "html",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "algorithm": "cpp",
+        "chrono": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "deque": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "xhash": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "xtree": "cpp",
+        "xutility": "cpp",
+        "charconv": "cpp",
+        "xlocmon": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "numeric": "cpp"
+    }
+}
